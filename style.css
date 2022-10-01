@@ -1,0 +1,13 @@
+#title{
+    background: palevioletred;
+    padding: 15px;
+    color: white;
+}
+
+.bg-color1{
+    background: yellow;
+}
+
+p.bg-color1{
+    color:red;
+}
